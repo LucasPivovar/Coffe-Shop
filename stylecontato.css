@@ -156,22 +156,3 @@ button:hover{
 
 }
 
-
-.footer{
-    display: flex;
-    justify-content: center;
-    background-color: rgb(70, 70, 70);
-    height: 6vh;
-    top: 14em;
-    position: relative;
-    justify-content: center;
-}
-
-
-.footer img{
-   width: 3em;
-   position: relative; top: 1em;
-   background-color: rgb(70, 70, 70);
-   padding: 15px;   
-
-}
